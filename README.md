@@ -35,7 +35,7 @@ La méthodologie suivie respecte les standards de l'**OWASP API Security Top 10*
 
 ---
 
-### 📂 Livrables
+### 📂 Les livrables
 * [X] **Rapport PDF :** Analyse détaillée avec recommandations prioritaires.
 * [X] **Collection Postman / Preuves :** Captures d'écran des tests effectués.
 
